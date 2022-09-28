@@ -1,4 +1,4 @@
-package br.inatel.DAO;
+package DAO;
 
 import java.sql.*;
 

@@ -1,12 +1,12 @@
-package br.inatel.DAO;
+package DAO;
 
-import br.inatel.Model.User;
+import Model.User;
 
 import java.sql.SQLException;
 import java.util.ArrayList;
 
 public class UserDAO extends ConnectionDAO{
-    
+
     //DAO - Data Access Object
     boolean sucesso = false; //Para saber se funcionou
 

@@ -1,4 +1,4 @@
-package br.inatel.Model;
+package Model;
 
 public class User {
 

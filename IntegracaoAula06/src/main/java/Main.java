@@ -1,7 +1,5 @@
-package br.inatel;
-
-import br.inatel.DAO.UserDAO;
-import br.inatel.Model.User;
+import DAO.UserDAO;
+import Model.User;
 
 public class Main {
 
