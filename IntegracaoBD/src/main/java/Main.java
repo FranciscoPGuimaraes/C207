@@ -10,10 +10,10 @@ public class Main {
         User u1 =  new User("Pedro", "123456789");
         User u2 = new User("Mario", "987654321");
 
-        //userDAO.insertUser(u1);
-        //userDAO.insertUser(u2);
+        userDAO.insertUser(u1);
+        userDAO.insertUser(u2);
 
-        //userDAO.selectUser();
+        userDAO.selectUser();
 
         //userDAO.deleteUser(2);
 
